@@ -1,0 +1,16 @@
+body {
+    /*background-image: url("C:/Users/Pop/Desktop/Projects/Bootstrap4/Projects/01/img/rolex.jpg");*/
+    background-image: url("C:/Users/Pop/Desktop/Projects/Bootstrap4/Projects/01/img/rolex.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.hero {
+    color: lime;
+    margin-top: 20%;
+    text-align: center;
+    font-size: 75px;
+    letter-spacing: -.05em;
+    line-height: 1.2em;
+    font-family: 'Revalia', cursive;
+}
